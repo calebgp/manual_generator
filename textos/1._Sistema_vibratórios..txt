@@ -1,0 +1,67 @@
+## 1. Sistemas Vibratórios
+
+### Introdução ao Movimento Harmónico Simples (MHS)
+
+No contexto do estudo do som, os sistemas vibratórios desempenham um papel fundamental. O som, na sua essência, é uma onda mecânica que se propaga através de um meio, como o ar, a água ou um sólido, devido a vibrações. Compreender o comportamento dos sistemas vibratórios é, portanto, essencial para entender a natureza e as características do som.
+
+O Movimento Harmónico Simples (MHS) é um tipo de movimento vibratório que serve como modelo fundamental para muitas situações físicas, incluindo a produção e a propagação do som. Define-se como um movimento periódico onde a força restauradora é diretamente proporcional ao deslocamento e atua na direção oposta. Em termos mais simples, imagine uma mola: quanto mais a esticamos ou comprimimos, maior é a força que tenta trazer a mola de volta à sua posição de equilíbrio.
+
+### Caraterísticas do MHS
+
+Para descrever o MHS, utilizamos diversas grandezas físicas:
+
+*   **Amplitude (A):** Representa o deslocamento máximo do objeto vibratório a partir da sua posição de equilíbrio. No contexto do som, uma amplitude maior corresponde a um som mais alto (maior intensidade).
+
+*   **Período (T):** É o tempo necessário para completar um ciclo completo de oscilação. Mede-se em segundos (s).
+
+*   **Frequência (f):** É o número de ciclos completos de oscilação por unidade de tempo. É o inverso do período (f = 1/T) e mede-se em Hertz (Hz). No contexto do som, a frequência está diretamente relacionada com a altura do som (tons agudos têm frequências elevadas, tons graves têm frequências baixas).
+
+*   **Fase (φ):** Descreve a posição inicial do objeto vibratório no seu ciclo de oscilação. É importante para comparar o movimento de diferentes osciladores.
+
+A equação que descreve o deslocamento (x) de um objeto em MHS em função do tempo (t) é:
+
+x(t) = A * cos(ωt + φ)
+
+Onde:
+
+*   ω (omega) é a frequência angular, relacionada com a frequência (f) pela equação ω = 2πf.
+
+### Tipos de Sistemas Vibratórios
+
+Existem diversos tipos de sistemas vibratórios, cada um com as suas particularidades:
+
+*   **Vibrações Livres:** Ocorrem quando um sistema é perturbado e deixado a oscilar sem a influência de forças externas (exceto a força restauradora). A frequência de oscilação é determinada pelas propriedades do sistema, como a massa e a rigidez. Um exemplo é um pêndulo simples balançando após ser libertado de uma posição inicial.
+
+*   **Vibrações Forçadas:** Ocorrem quando um sistema é submetido a uma força externa periódica. O sistema vibrará na frequência da força externa, independentemente da sua frequência natural. Um exemplo é um alto-falante, onde uma corrente elétrica variável força o cone a vibrar, produzindo ondas sonoras.
+
+*   **Vibrações Amortecidas:** São vibrações onde a amplitude diminui gradualmente ao longo do tempo devido à dissipação de energia, geralmente por atrito ou resistência do ar. A quantidade de amortecimento afeta a rapidez com que a vibração se extingue. Um exemplo é a suspensão de um carro, que amortece as vibrações causadas pelas irregularidades da estrada.
+
+*   **Ressonância:** É um fenómeno que ocorre quando a frequência da força externa aplicada a um sistema vibratório coincide com a sua frequência natural. Neste caso, a amplitude das vibrações aumenta significativamente, podendo levar à destruição do sistema se a força for suficientemente grande. Um exemplo é a quebra de um copo de cristal quando exposto a um som com a sua frequência ressonante.
+
+### Aplicações dos Sistemas Vibratórios no Estudo do Som
+
+O estudo dos sistemas vibratórios é crucial para entender diversos aspetos do som:
+
+*   **Produção de Som:** A maioria dos instrumentos musicais e dispositivos de áudio utilizam sistemas vibratórios para gerar ondas sonoras. Por exemplo, as cordas de um violino, as membranas de um tambor e os cones de um alto-falante são todos sistemas vibratórios.
+
+*   **Propagação do Som:** O som propaga-se através de um meio como uma onda, que é uma perturbação vibratória que se move através do meio. As moléculas do meio vibram em torno das suas posições de equilíbrio, transmitindo a energia da onda sonora.
+
+*   **Receção do Som:** O ouvido humano deteta as ondas sonoras através da vibração do tímpano, que por sua vez transmite as vibrações aos ossículos do ouvido médio e à cóclea, onde são convertidas em sinais elétricos que o cérebro interpreta como som.
+
+*   **Análise de Som:** A análise das frequências presentes num som (análise espectral) é fundamental para entender a sua qualidade e identificar as suas componentes. Essa análise baseia-se nos princípios dos sistemas vibratórios e na relação entre frequência e amplitude.
+
+### Exemplos Concretos
+
+Para ilustrar os conceitos, consideremos alguns exemplos:
+
+*   **Pêndulo Simples:** Um pêndulo simples, constituído por uma massa suspensa por um fio, é um exemplo clássico de MHS (aproximadamente, para pequenos ângulos de oscilação). O período do pêndulo depende do comprimento do fio e da aceleração da gravidade.
+
+*   **Mola Com Massa:** Uma massa ligada a uma mola também exibe MHS. O período de oscilação depende da massa e da constante elástica da mola.
+
+*   **Cordas Vibrantes:** As cordas de um violino vibram numa ou mais frequências, dependendo de como são tocadas. Essas frequências determinam a altura do som produzido.
+
+*   **Diafragma de um Altifalante:** O diafragma, movido por uma bobina, vibra para criar ondas de pressão no ar, que percebemos como som. A frequência com que o diafragma vibra determina a altura do som.
+
+### Conclusão
+
+Em suma, o estudo dos sistemas vibratórios é essencial para compreender a natureza e o comportamento do som. O Movimento Harmónico Simples serve como um modelo fundamental para descrever as vibrações, e a compreensão das suas caraterísticas (amplitude, período, frequência, fase) é crucial. A variedade de sistemas vibratórios e as suas aplicações no estudo do som demonstram a importância deste tópico na física e na acústica. Através da análise de vibrações, podemos não só compreender a produção e a propagação do som, mas também projetar e otimizar instrumentos musicais, sistemas de áudio e outros dispositivos que dependem das propriedades vibratórias da matéria.

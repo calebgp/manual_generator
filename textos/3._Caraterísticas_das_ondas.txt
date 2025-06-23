@@ -1,0 +1,53 @@
+## 3. Características das Ondas
+
+As ondas constituem um fenómeno físico fundamental presente em diversas áreas da natureza, desde as ondas sonoras que nos permitem ouvir, até às ondas eletromagnéticas que transportam a luz visível e as comunicações sem fios. Compreender as características que definem uma onda é crucial para analisar e prever o seu comportamento, bem como para explorar as suas aplicações práticas. No contexto do estudo do som, no âmbito da Física e Química do 11º ano, dominar o conhecimento sobre as características das ondas é essencial para a compreensão da natureza e propagação do som.
+
+### 3.1. Tipos de Ondas
+
+Existem essencialmente dois tipos de ondas: as ondas mecânicas e as ondas eletromagnéticas. A principal diferença reside na necessidade ou não de um meio material para a sua propagação.
+
+As **ondas mecânicas** requerem um meio material (sólido, líquido ou gasoso) para se propagarem. A perturbação propaga-se através da transferência de energia de partícula para partícula no meio.  Exemplos de ondas mecânicas incluem as ondas sonoras, as ondas na água e as ondas sísmicas.  As ondas sonoras, em particular, são um exemplo primordial no contexto deste trabalho. Elas propagam-se através do ar, da água ou de sólidos, fazendo com que as partículas do meio vibrem e transfiram essa vibração às partículas vizinhas.
+
+As **ondas eletromagnéticas**, por outro lado, não necessitam de um meio material para se propagarem. São criadas pela oscilação de campos elétricos e magnéticos, que se propagam em conjunto mesmo no vácuo. Exemplos de ondas eletromagnéticas incluem a luz visível, as ondas de rádio, os raios X e as micro-ondas. Embora não sejam diretamente o foco do estudo do som, é importante distinguir estes dois tipos de ondas, pois partilham algumas características comuns, mas diferem fundamentalmente no mecanismo de propagação.
+
+Dentro das ondas mecânicas, podemos ainda distinguir dois tipos principais: ondas longitudinais e ondas transversais.
+
+*   **Ondas longitudinais:** A direção de oscilação das partículas do meio é paralela à direção de propagação da onda.  As ondas sonoras são um exemplo clássico de ondas longitudinais. Imagine um pistão a empurrar ar dentro de um tubo. As moléculas de ar comprimem-se e expandem-se ao longo da direção do tubo, criando zonas de alta pressão (compressões) e baixa pressão (rarefações) que se propagam.
+
+*   **Ondas transversais:** A direção de oscilação das partículas do meio é perpendicular à direção de propagação da onda. Um exemplo comum são as ondas numa corda vibrante. Se agitarmos uma extremidade da corda para cima e para baixo, criamos uma onda que se propaga ao longo da corda, com a corda a mover-se perpendicularmente à direção da onda.
+
+### 3.2. Grandezas Caraterísticas das Ondas
+
+Várias grandezas físicas caraterizam uma onda, permitindo descrever o seu comportamento e interações. As principais são:
+
+*   **Amplitude (A):** Representa o deslocamento máximo das partículas do meio a partir da sua posição de equilíbrio. Numa onda sonora, a amplitude está relacionada com a intensidade do som: quanto maior a amplitude, maior a intensidade (volume). A unidade de medida da amplitude depende da natureza da onda. Por exemplo, numa onda sonora, pode ser medida em unidades de pressão (Pascal), enquanto numa onda eletromagnética pode ser medida em unidades de intensidade de campo elétrico (Volt/metro).
+
+*   **Comprimento de onda (λ):** É a distância entre dois pontos consecutivos na onda que se encontram na mesma fase (por exemplo, entre dois picos ou duas depressões).  É uma medida espacial da periodicidade da onda.  A unidade de medida do comprimento de onda é geralmente o metro (m).
+
+*   **Período (T):** É o tempo necessário para que um ponto do meio complete uma oscilação completa.  É uma medida temporal da periodicidade da onda.  A unidade de medida do período é o segundo (s).
+
+*   **Frequência (f):** É o número de oscilações completas que um ponto do meio realiza por unidade de tempo. É o inverso do período:  f = 1/T. A unidade de medida da frequência é o Hertz (Hz), que corresponde a uma oscilação por segundo. No contexto do som, a frequência está relacionada com a altura do som: sons de alta frequência são percebidos como agudos, enquanto sons de baixa frequência são percebidos como graves.
+
+*   **Velocidade de propagação (v):** É a velocidade com que a onda se propaga através do meio.  A velocidade de propagação depende das propriedades do meio. Existe uma relação fundamental entre a velocidade de propagação, o comprimento de onda e a frequência: v = λ * f.  Esta relação é crucial para compreender como as características de uma onda se relacionam entre si e como a velocidade de propagação é determinada.
+
+### 3.3. Relação entre Grandezas e Percepção do Som
+
+No contexto específico do som, a frequência e a amplitude desempenham papéis cruciais na nossa percepção auditiva:
+
+*   **Frequência e Altura (Tom):** A frequência de uma onda sonora determina a altura (tom) do som que percebemos. Sons com alta frequência são percebidos como agudos, enquanto sons com baixa frequência são percebidos como graves. A capacidade humana de ouvir sons varia geralmente entre 20 Hz e 20.000 Hz, embora estes limites variem de pessoa para pessoa e diminuam com a idade.
+
+*   **Amplitude e Intensidade (Volume):** A amplitude de uma onda sonora está relacionada com a intensidade (volume) do som. Uma onda sonora com grande amplitude transmite mais energia e, portanto, é percebida como mais alta ou mais forte. A intensidade sonora é geralmente medida em decibéis (dB), que é uma escala logarítmica que reflete a gama incrivelmente ampla de intensidades sonoras que o ouvido humano pode detetar.
+
+### 3.4. Fenómenos Ondulatórios
+
+As ondas, incluindo as ondas sonoras, exibem vários fenómenos que resultam da sua natureza ondulatória, como a reflexão, a refração, a difração e a interferência.
+
+*   **Reflexão:** Ocorre quando uma onda encontra uma barreira e retorna ao meio de origem. No caso do som, a reflexão é responsável pelo eco. A qualidade da reflexão sonora depende das características da superfície refletora.
+
+*   **Refração:** Ocorre quando uma onda muda de meio e, consequentemente, a sua velocidade de propagação se altera. Esta mudança de velocidade causa uma alteração na direção da onda. No caso do som, a refração pode ocorrer quando o som passa de uma zona do ar com uma temperatura para outra com uma temperatura diferente.
+
+*   **Difração:** É a capacidade de uma onda contornar obstáculos ou espalhar-se ao passar por uma abertura. A difração é mais acentuada quando o comprimento de onda é comparável ou maior que as dimensões do obstáculo ou da abertura. A difração do som permite-nos ouvir sons mesmo quando não estamos diretamente na linha de visão da fonte sonora.
+
+*   **Interferência:** Ocorre quando duas ou mais ondas se encontram no mesmo ponto do espaço. A interferência pode ser construtiva (as ondas se somam, resultando numa amplitude maior) ou destrutiva (as ondas se cancelam, resultando numa amplitude menor). A interferência é um fenómeno importante na construção de sistemas de som e no estudo de padrões de onda complexos.
+
+Compreender estas características das ondas e os fenómenos associados é fundamental para uma análise completa do som e das suas diversas aplicações em áreas como a acústica, a música, a comunicação e a tecnologia.

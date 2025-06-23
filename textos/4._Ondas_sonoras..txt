@@ -1,0 +1,59 @@
+## 4. Ondas Sonoras
+
+As ondas sonoras constituem um fenómeno físico fundamental no estudo do som, inserindo-se na Unidade F6 do programa de Física do 11º ano.  São ondas mecânicas longitudinais que necessitam de um meio material para se propagarem, seja ele sólido, líquido ou gasoso. Esta secção visa explorar em detalhe as características, propriedades e fenómenos associados às ondas sonoras, proporcionando uma compreensão aprofundada do seu comportamento e aplicações.
+
+### 4.1. Natureza e Propagação das Ondas Sonoras
+
+As ondas sonoras são essencialmente variações de pressão que se propagam através de um meio. Estas variações são causadas por uma perturbação inicial, como a vibração de um objeto. Essa vibração comprime e rarefaz as partículas do meio adjacente, criando zonas de alta pressão (compressões) e baixa pressão (rarefações) que se propagam sucessivamente.
+
+Ao contrário das ondas eletromagnéticas, que podem viajar no vácuo, as ondas sonoras requerem um meio para se propagarem.  Isto deve-se à sua natureza mecânica: a energia da onda é transmitida através das interações entre as partículas do meio.  Quanto mais denso for o meio, mais rápido a onda sonora se propaga, geralmente. Assim, a velocidade do som é maior nos sólidos do que nos líquidos, e nos líquidos do que nos gases.
+
+A velocidade de propagação do som depende também da temperatura do meio.  Em gases, a velocidade do som aumenta com o aumento da temperatura, pois as partículas possuem maior energia cinética e, portanto, transmitem a perturbação mais rapidamente. Esta relação temperatura-velocidade é crucial para entender como o som se comporta em diferentes ambientes.
+
+### 4.2. Características das Ondas Sonoras
+
+As ondas sonoras, como qualquer onda, são caracterizadas por propriedades específicas que definem a sua amplitude, frequência e comprimento de onda.
+
+*   **Amplitude:** A amplitude de uma onda sonora está relacionada com a intensidade da onda e, portanto, com o volume percebido. Uma amplitude maior corresponde a uma compressão e rarefação mais acentuadas, o que se traduz num som mais alto. A amplitude é geralmente medida em unidades de pressão, como Pascal (Pa).
+
+*   **Frequência:** A frequência de uma onda sonora define o número de ciclos (compressões e rarefações) que passam por um ponto num determinado período de tempo, geralmente um segundo. A unidade de frequência é o Hertz (Hz), onde 1 Hz corresponde a um ciclo por segundo. A frequência está diretamente relacionada com a altura do som percebido: sons de alta frequência são percebidos como agudos, enquanto sons de baixa frequência são percebidos como graves. O ouvido humano é sensível a frequências entre aproximadamente 20 Hz e 20.000 Hz, embora este intervalo possa variar com a idade e exposição a ruídos.
+
+*   **Comprimento de onda:** O comprimento de onda (λ) é a distância entre dois pontos consecutivos da onda que estão na mesma fase, como a distância entre duas compressões sucessivas.  O comprimento de onda está relacionado com a velocidade (v) e a frequência (f) através da equação: v = λf.  Conhecendo duas destas variáveis, pode-se determinar a terceira.
+
+### 4.3. Intensidade Sonora
+
+A intensidade sonora (I) é definida como a potência (P) transportada pela onda sonora por unidade de área (A), sendo expressa pela fórmula: I = P/A.  A unidade de intensidade sonora é o watt por metro quadrado (W/m²). A intensidade sonora está relacionada com a amplitude da onda e, portanto, com a perceção do volume.
+
+No entanto, a perceção humana do volume não é linear com a intensidade sonora. Em vez disso, usamos uma escala logarítmica chamada nível de intensidade sonora (β), medida em decibéis (dB). O nível de intensidade sonora é definido como:
+
+β = 10 log₁₀ (I/I₀)
+
+onde I₀ é a intensidade sonora de referência, geralmente tomada como 10⁻¹² W/m², que corresponde ao limiar da audição humana.
+
+Os decibéis são uma forma conveniente de expressar a vasta gama de intensidades sonoras que o ouvido humano pode detetar, desde o limiar da audição até níveis que podem causar danos.  Por exemplo, uma conversa normal tem um nível de intensidade sonora de cerca de 60 dB, enquanto o som de uma turbina de avião pode atingir 120 dB ou mais. Exposições prolongadas a níveis de intensidade sonora acima de 85 dB podem causar danos auditivos.
+
+### 4.4. Fenómenos Associados às Ondas Sonoras
+
+As ondas sonoras estão sujeitas aos mesmos fenómenos ondulatórios que outras ondas, como a reflexão, refração, difração e interferência.
+
+*   **Reflexão:** A reflexão ocorre quando uma onda sonora atinge uma superfície e é devolvida ao meio de origem. Este fenómeno é responsável pelo eco que ouvimos quando gritamos numa montanha ou num espaço vazio. A reflexão do som é também utilizada em tecnologias como o sonar, que permite detetar objetos submersos através da emissão de ondas sonoras e deteção do seu eco.
+
+*   **Refração:** A refração ocorre quando uma onda sonora passa de um meio para outro com diferentes propriedades, resultando numa mudança na sua velocidade e direção de propagação. A refração do som pode ser observada em diferentes camadas da atmosfera, onde a temperatura e, portanto, a velocidade do som variam com a altitude.
+
+*   **Difração:** A difração é a capacidade de uma onda sonora contornar obstáculos ou espalhar-se ao passar por uma abertura. A difração permite-nos ouvir sons mesmo quando não estamos na linha de visão da fonte sonora, por exemplo, ouvir música vinda de uma sala adjacente.
+
+*   **Interferência:** A interferência ocorre quando duas ou mais ondas sonoras se encontram no mesmo ponto do espaço.  A interferência pode ser construtiva, quando as ondas se somam e a amplitude resultante é maior, ou destrutiva, quando as ondas se anulam e a amplitude resultante é menor. A interferência é a base de tecnologias de cancelamento de ruído, onde ondas sonoras são geradas para anular o som indesejado.
+
+### 4.5. Aplicações das Ondas Sonoras
+
+As propriedades das ondas sonoras são exploradas em diversas aplicações tecnológicas e científicas.
+
+*   **Medicina:** A ecografia utiliza ondas sonoras de alta frequência para criar imagens do interior do corpo humano. A ultrassonografia é uma técnica não invasiva que permite visualizar órgãos, tecidos e até mesmo fetos durante a gravidez.
+
+*   **Engenharia:** O sonar é utilizado para detetar objetos submersos, mapear o fundo do mar e auxiliar na navegação.  Em ambientes industriais, o ultrassom é usado para detetar falhas em materiais e componentes.
+
+*   **Música:** O estudo das ondas sonoras é fundamental para a compreensão da produção e perceção musical.  A acústica estuda o comportamento do som em diferentes espaços e a otimização das características sonoras de salas de concerto e estúdios de gravação.
+
+*   **Comunicações:** Apesar de não ser o principal meio de comunicação na era digital, as ondas sonoras ainda são utilizadas em sistemas de comunicação subaquáticos e para fins de sinalização.
+
+Em suma, o estudo das ondas sonoras é essencial para compreender a natureza do som e as suas diversas aplicações. A partir da análise das suas características e das propriedades que regem a sua propagação, é possível entender e explorar os fenómenos sonoros que nos rodeiam.

@@ -1,0 +1,53 @@
+## 5. Fenómenos Associados a Ondas
+
+Este documento aborda os principais fenómenos associados a ondas, um conceito fundamental na física e, em particular, no estudo do som. A compreensão destes fenómenos é crucial para a análise do comportamento do som e para a aplicação deste conhecimento em diversas áreas, desde a acústica arquitetónica à tecnologia de áudio.
+
+### 5.1. Reflexão
+
+A reflexão é um fenómeno que ocorre quando uma onda encontra uma superfície de separação entre dois meios e retorna ao meio de origem. No caso do som, a reflexão é responsável por fenómenos como o eco e a reverberação.
+
+Quando uma onda sonora incide numa superfície, uma parte da energia é absorvida pelo material, enquanto outra parte é refletida. O ângulo de incidência (o ângulo entre a onda incidente e a normal à superfície) é igual ao ângulo de reflexão (o ângulo entre a onda refletida e a normal à superfície). Esta lei fundamental da reflexão aplica-se tanto a ondas sonoras como a outros tipos de ondas.
+
+A natureza da superfície influencia a reflexão. Superfícies lisas e duras, como paredes de betão ou metal, refletem o som de forma mais eficiente do que superfícies rugosas e macias, como cortinas ou alcatifas, que tendem a absorver mais energia sonora.
+
+A reflexão do som é utilizada em diversas aplicações práticas. Por exemplo, em sonares, ondas sonoras são emitidas e o tempo que demoram a retornar após refletirem em objetos submersos é usado para determinar a sua localização e distância. Na acústica de salas de concertos e auditórios, a reflexão é cuidadosamente controlada para criar um ambiente sonoro rico e equilibrado. Da mesma forma, o design de microfones direcionais explora o princípio da reflexão para captar o som de uma direção específica, minimizando o ruído de fundo.
+
+### 5.2. Refração
+
+A refração ocorre quando uma onda sonora passa de um meio para outro com diferentes propriedades, resultando numa alteração na sua velocidade e, consequentemente, na sua direção de propagação. Este fenómeno ocorre porque a velocidade do som depende das propriedades do meio, como a densidade e a temperatura.
+
+Por exemplo, o som viaja mais rapidamente no ar quente do que no ar frio. Num dia quente, o ar perto do solo aquece mais rapidamente do que o ar a altitudes mais elevadas. Como resultado, as ondas sonoras que se propagam para cima são refratadas de volta para o solo, permitindo que o som seja ouvido a distâncias maiores. Inversamente, num dia frio, as ondas sonoras podem ser refratadas para cima, diminuindo o alcance do som no solo.
+
+A refração também pode ocorrer quando o som passa de um meio gasoso para um meio líquido ou sólido. A velocidade do som na água é significativamente maior do que no ar. Assim, quando uma onda sonora passa do ar para a água, a sua direção é alterada, o que é explorado em aplicações como a comunicação subaquática.
+
+A refração é um fator importante a considerar na acústica ambiental. A variação da temperatura e da humidade do ar pode afetar a propagação do som e, consequentemente, o nível de ruído percebido em diferentes locais.
+
+### 5.3. Difração
+
+A difração é a capacidade de uma onda contornar obstáculos ou espalhar-se ao passar por uma abertura. Este fenómeno é mais pronunciado quando o comprimento de onda é comparável ou maior do que as dimensões do obstáculo ou da abertura.
+
+No caso das ondas sonoras, a difração permite que o som se propague para além de cantos e esquinas, e que seja ouvido mesmo que haja um objeto a bloquear a linha de visão direta entre a fonte sonora e o ouvinte.
+
+O grau de difração depende do comprimento de onda do som. Ondas sonoras com baixas frequências (comprimentos de onda longos) são difratadas mais facilmente do que ondas sonoras com altas frequências (comprimentos de onda curtos). É por isso que é mais fácil ouvir graves através de uma parede do que sons agudos.
+
+A difração desempenha um papel importante na acústica arquitetónica. O design de edifícios e de concertos deve considerar a difração para garantir que o som se propague de forma uniforme por todo o espaço. A utilização de difusores acústicos (superfícies com irregularidades propositadas) ajuda a espalhar o som, evitando o surgimento de zonas de silêncio ou de zonas com excesso de reflexão.
+
+### 5.4. Interferência
+
+A interferência ocorre quando duas ou mais ondas sonoras se sobrepõem no mesmo ponto do espaço. A amplitude resultante da onda combinada depende das amplitudes e das fases das ondas individuais.
+
+A interferência pode ser construtiva ou destrutiva. Na interferência construtiva, as ondas se combinam de forma que a amplitude resultante seja maior do que a amplitude de cada onda individual. Isto resulta num aumento da intensidade sonora. Na interferência destrutiva, as ondas se combinam de forma que a amplitude resultante seja menor do que a amplitude de cada onda individual. Se as ondas tiverem amplitudes iguais e estiverem em oposição de fase (desfasadas em 180 graus), a interferência é completamente destrutiva e o som é cancelado.
+
+A interferência é utilizada em diversas aplicações tecnológicas. Por exemplo, os auscultadores com cancelamento de ruído utilizam microfones para captar o ruído ambiente e geram uma onda sonora com a mesma amplitude e fase oposta, que é então combinada com o ruído, resultando na sua anulação.
+
+A interferência também pode causar problemas em sistemas de som. Em salas com múltiplos altifalantes, a interferência pode criar zonas com intensidade sonora alta e zonas com intensidade sonora baixa, resultando numa distribuição irregular do som. A colocação cuidadosa dos altifalantes e o uso de técnicas de processamento de sinal podem minimizar os efeitos da interferência e melhorar a qualidade do som.
+
+### 5.5. Ressonância
+
+A ressonância ocorre quando um sistema (como um objeto ou uma cavidade) é excitado por uma força oscilante cuja frequência coincide com uma das suas frequências naturais de vibração. Quando isso acontece, o sistema absorve energia da fonte oscilante de forma muito eficiente, resultando num grande aumento na amplitude da vibração.
+
+No contexto do som, a ressonância é importante em muitos dispositivos e fenómenos. Por exemplo, as caixas de ressonância de instrumentos musicais, como violinos e guitarras, amplificam o som produzido pelas cordas vibrantes. As cavidades de ressonância, como as existentes em tubos de órgãos, produzem sons de frequências específicas.
+
+A ressonância também pode ser indesejada. Por exemplo, a ressonância em estruturas de edifícios pode ser induzida por vibrações externas, como o tráfego ou o vento, causando ruído e danos. É importante ter em conta a ressonância no design de estruturas para evitar problemas.
+
+Em suma, a compreensão dos fenómenos associados a ondas, nomeadamente a reflexão, refração, difração, interferência e ressonância, é fundamental para a análise e controlo do som em diversas aplicações. Estes fenómenos influenciam a forma como o som se propaga, interage com o ambiente e é percebido pelos ouvintes.

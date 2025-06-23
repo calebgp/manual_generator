@@ -1,0 +1,61 @@
+## 2. Ondas Mecânicas
+
+As ondas mecânicas são um tipo fundamental de onda que se distingue por necessitar de um meio material para a sua propagação. Ao contrário das ondas eletromagnéticas, como a luz, que podem viajar no vácuo, as ondas mecânicas dependem da interação entre partículas de um meio físico para transferir energia e momento. Dentro do contexto do estudo do som (F6), as ondas mecânicas são de importância primordial, visto que o som é essencialmente uma onda mecânica que se propaga através do ar, da água ou de sólidos.
+
+### 2.1. Definição e Características Fundamentais
+
+Uma onda mecânica é uma perturbação que se propaga através de um meio, transportando energia sem transportar matéria. Esta perturbação pode ser uma oscilação ou vibração que se propaga de partícula para partícula no meio. A propagação ocorre devido às forças intermoleculares que mantêm as partículas do meio ligadas umas às outras. Quando uma partícula é perturbada, ela exerce uma força sobre as partículas vizinhas, transmitindo a perturbação.
+
+As principais características que definem uma onda mecânica são:
+
+*   **Amplitude (A):** A amplitude representa o deslocamento máximo da partícula do meio em relação à sua posição de equilíbrio. Está relacionada com a energia transportada pela onda - quanto maior a amplitude, maior a energia. A amplitude é geralmente medida em metros (m).
+
+*   **Período (T):** O período é o tempo necessário para que uma partícula do meio complete uma oscilação completa. É o inverso da frequência e é medido em segundos (s).
+
+*   **Frequência (f):** A frequência representa o número de oscilações completas que uma partícula do meio realiza por unidade de tempo. É o inverso do período e é medida em Hertz (Hz), onde 1 Hz corresponde a uma oscilação por segundo.
+
+*   **Comprimento de onda (λ):** O comprimento de onda é a distância entre dois pontos consecutivos da onda que estão em fase, como dois picos ou dois vales. É medido em metros (m).
+
+*   **Velocidade de propagação (v):** A velocidade de propagação da onda é a velocidade com que a perturbação se move através do meio. Depende das propriedades do meio, como a elasticidade e a densidade, e relaciona-se com a frequência e o comprimento de onda através da equação:
+
+    `v = λf`
+
+### 2.2. Tipos de Ondas Mecânicas
+
+As ondas mecânicas podem ser classificadas em dois tipos principais, dependendo da direção da oscilação das partículas do meio em relação à direção de propagação da onda:
+
+*   **Ondas Transversais:** Numa onda transversal, as partículas do meio oscilam perpendicularmente à direção de propagação da onda. Um exemplo clássico de onda transversal é uma onda numa corda esticada. Imagine abanar uma corda para cima e para baixo; a onda viaja horizontalmente ao longo da corda, enquanto os pontos individuais da corda se movem verticalmente. Ondas transversais só podem propagar-se em sólidos, pois estes têm a estrutura necessária para suportar forças de cisalhamento.
+
+*   **Ondas Longitudinais:** Numa onda longitudinal, as partículas do meio oscilam paralelamente à direção de propagação da onda. O som é um exemplo primário de onda longitudinal. As ondas sonoras propagam-se através de compressões e rarefações do meio (aumento e diminuição da densidade, respetivamente) na mesma direção em que a onda se move. Estes tipos de ondas podem propagar-se tanto em sólidos, líquidos e gases, visto que todos estes meios são capazes de suportar compressões.
+
+### 2.3. A Velocidade de Propagação das Ondas Mecânicas
+
+A velocidade com que uma onda mecânica se propaga através de um meio depende das propriedades físicas desse meio. Em geral, a velocidade é maior em meios mais rígidos e menos densos.
+
+*   **Em Sólidos:** A velocidade de uma onda transversal num sólido depende do módulo de Young (que mede a rigidez do material) e da densidade do material. A velocidade de uma onda longitudinal num sólido depende do módulo de elasticidade volumétrica (que mede a resistência à compressão) e da densidade do material.
+
+*   **Em Líquidos:** A velocidade de uma onda longitudinal num líquido depende do módulo de elasticidade volumétrica do líquido e da sua densidade. Líquidos não suportam ondas transversais porque não resistem a forças de cisalhamento.
+
+*   **Em Gases:** A velocidade de uma onda longitudinal num gás (como o som no ar) depende da temperatura do gás e da sua composição. A velocidade do som no ar aumenta com a temperatura. A formula para a velocidade do som no ar é aproximadamente dada por:
+
+    `v ≈ 331.5 + 0.6T` (onde T é a temperatura em graus Celsius)
+
+### 2.4. Reflexão, Refração e Difração
+
+As ondas mecânicas, tal como outros tipos de ondas, exibem fenómenos de reflexão, refração e difração.
+
+*   **Reflexão:** A reflexão ocorre quando uma onda atinge uma barreira e retorna ao meio original. O ângulo de incidência é igual ao ângulo de reflexão. No caso do som, a reflexão é responsável pelos ecos.
+
+*   **Refração:** A refração ocorre quando uma onda passa de um meio para outro, onde a sua velocidade de propagação é diferente. Isso causa uma mudança na direção da onda. A refração do som pode ocorrer quando a temperatura do ar varia, alterando a velocidade do som.
+
+*   **Difração:** A difração ocorre quando uma onda contorna um obstáculo ou passa através de uma abertura. A quantidade de difração depende do tamanho do obstáculo ou da abertura em relação ao comprimento de onda. Ondas com comprimentos de onda maiores difratam mais facilmente. No caso do som, a difração permite que o som se propague à volta de cantos.
+
+### 2.5. Superposição e Interferência
+
+Quando duas ou mais ondas mecânicas se encontram no mesmo ponto do meio, ocorre a superposição. O deslocamento resultante da partícula do meio é a soma vetorial dos deslocamentos individuais de cada onda. A superposição pode levar à interferência construtiva ou destrutiva.
+
+*   **Interferência Construtiva:** Ocorre quando as ondas se encontram em fase (ou seja, os picos e vales das ondas coincidem), resultando numa amplitude maior do que as amplitudes das ondas individuais.
+
+*   **Interferência Destrutiva:** Ocorre quando as ondas se encontram em oposição de fase (ou seja, o pico de uma onda coincide com o vale da outra), resultando numa amplitude menor do que as amplitudes das ondas individuais. Se as amplitudes das ondas forem iguais, a interferência pode ser completamente destrutiva, resultando numa amplitude nula.
+
+O estudo das ondas mecânicas é essencial para compreender o fenómeno do som e muitos outros aspetos da física. A sua compreensão permite prever e controlar o comportamento do som em diferentes situações, desde o design de instrumentos musicais até à mitigação do ruído em ambientes urbanos.

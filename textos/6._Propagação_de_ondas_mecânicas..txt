@@ -1,0 +1,55 @@
+## 6. Propagação de Ondas Mecânicas
+
+As ondas mecânicas desempenham um papel fundamental na nossa perceção do mundo, especialmente no contexto do som, que constitui o foco principal deste trabalho. Elas são responsáveis pela transferência de energia através de um meio material, sem que haja transporte de matéria. Esta secção do trabalho dedica-se a explorar detalhadamente o processo de propagação destas ondas, os fatores que o influenciam e os diferentes tipos de ondas mecânicas que existem.
+
+### Definição e Características Fundamentais
+
+Uma onda mecânica surge quando uma perturbação é introduzida num meio material, como um sólido, um líquido ou um gás. Essa perturbação propaga-se através do meio, transferindo energia de partícula para partícula. É crucial compreender que as partículas do meio não se deslocam longas distâncias com a onda; ao invés, elas oscilam à volta das suas posições de equilíbrio, transmitindo a energia da perturbação às partículas vizinhas.
+
+As ondas mecânicas requerem um meio para se propagarem; ao contrário das ondas eletromagnéticas (como a luz), elas não podem viajar no vácuo. A velocidade de propagação da onda depende das propriedades do meio, nomeadamente da sua elasticidade (tendência a regressar à forma original após deformação) e da sua densidade. Meios mais rígidos e menos densos tendem a permitir que as ondas se propaguem mais rapidamente.
+
+As principais características que descrevem uma onda mecânica incluem:
+
+*   **Amplitude (A):** A máxima deslocação das partículas do meio em relação à sua posição de equilíbrio. Está relacionada com a energia da onda.
+*   **Comprimento de onda (λ):** A distância entre dois pontos consecutivos em fase na onda (por exemplo, entre dois picos ou dois vales).
+*   **Período (T):** O tempo necessário para que um ponto no meio complete uma oscilação completa.
+*   **Frequência (f):** O número de oscilações completas que um ponto no meio realiza por unidade de tempo. É o inverso do período (f = 1/T).
+*   **Velocidade de propagação (v):** A velocidade com que a perturbação se propaga através do meio. Está relacionada com o comprimento de onda e a frequência pela equação: v = λf.
+
+### Tipos de Ondas Mecânicas
+
+As ondas mecânicas podem ser classificadas em dois tipos principais, com base na direção da oscilação das partículas do meio em relação à direção de propagação da onda:
+
+*   **Ondas Transversais:** Nestas ondas, as partículas do meio oscilam perpendicularmente à direção de propagação da onda. Um exemplo clássico é uma onda numa corda esticada. A direção do movimento da corda é perpendicular à direção em que a onda viaja ao longo da corda. As ondas transversais só podem propagar-se em sólidos e na superfície de líquidos, uma vez que estes meios possuem forças de coesão suficientes para suportar as forças laterais associadas à oscilação perpendicular.
+
+*   **Ondas Longitudinais:** Nestas ondas, as partículas do meio oscilam paralelamente à direção de propagação da onda. O som é um exemplo paradigmático de uma onda longitudinal. Quando uma fonte sonora vibra, comprime e rarefaz o ar à sua volta, criando zonas de alta e baixa pressão que se propagam como uma onda longitudinal. Estas ondas podem propagar-se em sólidos, líquidos e gases, pois a compressão e a rarefação do meio transmitem a energia da onda.
+
+### Velocidade de Propagação em Diferentes Meios
+
+A velocidade com que uma onda mecânica se propaga depende das propriedades do meio, como já mencionado. A seguinte tabela resume as principais fórmulas para o cálculo da velocidade em diferentes meios:
+
+| Meio        | Propriedade Relevante     | Fórmula                                      |
+| ----------- | ------------------------ | -------------------------------------------- |
+| Corda       | Tensão (T) e densidade linear (μ) | v = √(T/μ)                                 |
+| Sólido      | Módulo de Young (E) e densidade (ρ) | v = √(E/ρ)                                 |
+| Fluido (líquido ou gás) | Módulo de elasticidade volumétrica (B) e densidade (ρ) | v = √(B/ρ)                                 |
+
+É importante notar que a velocidade do som no ar também depende da temperatura. A uma temperatura de 20°C, a velocidade do som é aproximadamente 343 m/s.  A velocidade aumenta com o aumento da temperatura.
+
+### Fenómenos Associados à Propagação de Ondas Mecânicas
+
+A propagação de ondas mecânicas está associada a diversos fenómenos importantes, que afetam a forma como as ondas interagem com o meio e entre si:
+
+*   **Reflexão:** Ocorre quando uma onda encontra um obstáculo ou uma mudança no meio e retorna para trás. O ângulo de incidência é igual ao ângulo de reflexão. No contexto do som, a reflexão é responsável pelo eco.
+
+*   **Refração:** Ocorre quando uma onda passa de um meio para outro com diferentes propriedades, o que causa uma mudança na sua velocidade e, consequentemente, na sua direção de propagação.  A refração do som é responsável por o som parecer dobrar à volta de certos obstáculos.
+
+*   **Difração:** Ocorre quando uma onda contorna um obstáculo ou passa por uma abertura. A difração é mais pronunciada quando o comprimento de onda é comparável ao tamanho do obstáculo ou da abertura. A difração do som permite-nos ouvir sons mesmo que não estejamos diretamente na linha de visão da fonte sonora.
+
+*   **Interferência:** Ocorre quando duas ou mais ondas se sobrepõem na mesma região do espaço. A interferência pode ser construtiva, resultando num aumento da amplitude (e, portanto, da intensidade sonora), ou destrutiva, resultando numa diminuição da amplitude.
+
+*   **Efeito Doppler:** Ocorre quando a fonte da onda ou o observador estão em movimento relativo.  O efeito Doppler resulta numa mudança na frequência percebida da onda. Por exemplo, o som de uma ambulância torna-se mais agudo quando se aproxima e mais grave quando se afasta.
+
+### Aplicações da Compreensão da Propagação de Ondas Mecânicas
+
+A compreensão da propagação de ondas mecânicas é crucial em diversas áreas da ciência e da tecnologia. No contexto do som, esta compreensão é fundamental para o design de sistemas de áudio, salas de concertos com boa acústica, instrumentos musicais e tecnologias de cancelamento de ruído. As ondas sísmicas, que são ondas mecânicas que se propagam na Terra, são usadas para estudar a estrutura interna do planeta e para detetar sismos. A ecografia utiliza ondas sonoras de alta frequência para criar imagens do interior do corpo humano. Em suma, o estudo da propagação de ondas mecânicas fornece ferramentas poderosas para compreender e manipular o mundo que nos rodeia.

@@ -1,0 +1,73 @@
+## 8. A Intensidade do Som e Audição
+
+### 8.1. Introdução à Intensidade Sonora
+
+A intensidade sonora é uma medida objetiva da energia transportada por uma onda sonora por unidade de área e por unidade de tempo. Em termos simples, representa a quantidade de energia que uma onda sonora entrega a uma superfície por segundo. Esta grandeza física está diretamente relacionada com a nossa perceção subjetiva do volume ou da sonoridade de um som: quanto maior a intensidade, mais alto percebemos o som.
+
+A intensidade sonora (I) é definida como a potência (P) da onda sonora que atravessa uma área (A) perpendicular à direção de propagação da onda:
+
+I = P / A
+
+A unidade de medida da intensidade sonora no Sistema Internacional (SI) é o watt por metro quadrado (W/m²).
+
+É importante distinguir a intensidade sonora da pressão sonora. A pressão sonora é a variação na pressão do ar causada pela passagem da onda sonora, enquanto a intensidade sonora está relacionada com a energia que essa onda transporta. Ambas estão interligadas, mas representam aspetos diferentes da onda sonora.
+
+### 8.2. Escala de Decibéis (dB)
+
+Apesar de a intensidade sonora ser uma grandeza mensurável em W/m², a variação das intensidades sonoras que o ouvido humano consegue detetar é enorme. Para simplificar a representação e facilitar a compreensão, utiliza-se a escala de decibéis (dB), uma escala logarítmica que relaciona a intensidade de um som com a intensidade de um som de referência.
+
+O nível de intensidade sonora (β) em decibéis é definido como:
+
+β = 10 log₁₀ (I / I₀)
+
+Onde:
+
+*   β é o nível de intensidade sonora em decibéis (dB);
+*   I é a intensidade sonora a ser medida em W/m²;
+*   I₀ é a intensidade sonora de referência, considerada o limiar da audição humana, e tem o valor de 10⁻¹² W/m².
+
+Esta escala logarítmica significa que um aumento de 10 dB corresponde a um aumento de um fator de 10 na intensidade sonora. Por exemplo, um som com 20 dB é 10 vezes mais intenso que um som com 10 dB, e 100 vezes mais intenso que o limiar da audição (0 dB).
+
+A escala de decibéis é crucial porque se aproxima da forma como o ouvido humano percebe a sonoridade. O nosso ouvido não responde linearmente à intensidade sonora; a sua resposta é mais próxima de uma função logarítmica.
+
+### 8.3. Exemplos de Níveis de Intensidade Sonora
+
+Para ter uma ideia da escala de decibéis, apresentamos alguns exemplos de níveis de intensidade sonora associados a diferentes fontes sonoras:
+
+*   Limiar da audição: 0 dB
+*   Sussurro suave: 30 dB
+*   Conversa normal: 60 dB
+*   Trânsito intenso: 85 dB
+*   Concerto de rock: 120 dB
+*   Avião a jato na descolagem (próximo): 140 dB
+
+É importante notar que a exposição prolongada a sons com níveis de intensidade sonora acima de 85 dB pode causar danos à audição.
+
+### 8.4. Audição Humana: Sensibilidade e Limiares
+
+O ouvido humano é um órgão complexo e extremamente sensível, capaz de detetar uma vasta gama de frequências e intensidades sonoras. No entanto, a nossa perceção sonora tem limites.
+
+*   **Limiar da Audição:** Como já mencionado, o limiar da audição é a menor intensidade sonora que o ouvido humano consegue detetar numa determinada frequência. Este valor é convencionalmente definido como 0 dB, correspondendo a uma intensidade de 10⁻¹² W/m².
+*   **Limiar da Dor:** O limiar da dor é a intensidade sonora a partir da qual o som se torna doloroso e pode causar danos imediatos ao ouvido. Este valor situa-se geralmente entre 120 dB e 140 dB.
+
+A sensibilidade do ouvido humano não é uniforme em todas as frequências. Somos mais sensíveis a sons com frequências entre 1 kHz e 4 kHz, a faixa de frequências da fala humana. Fora desta faixa, a nossa sensibilidade diminui, o que significa que necessitamos de uma intensidade sonora maior para detetar sons de baixa ou alta frequência.
+
+### 8.5. Efeitos da Exposição Prolongada a Ruído
+
+A exposição prolongada a ruído, mesmo em níveis de intensidade sonora que não causem dor imediata, pode ter efeitos prejudiciais à audição e à saúde em geral.
+
+*   **Perda Auditiva Induzida por Ruído (PAIR):** É a forma mais comum de perda auditiva. Ocorre quando as células ciliadas do ouvido interno, responsáveis por converter as vibrações sonoras em sinais elétricos que o cérebro interpreta como som, são danificadas pela exposição repetida a sons altos. A PAIR é geralmente irreversível.
+*   **Zumbido (Tinnitus):** É a perceção de um som (como um zumbido, assobio ou clique) nos ouvidos ou na cabeça, mesmo quando não há uma fonte sonora externa. O zumbido pode ser causado por danos nas células ciliadas do ouvido interno.
+*   **Hiperacusia:** É uma sensibilidade anormalmente alta a sons, mesmo a sons de intensidade normal.
+*   **Outros efeitos na saúde:** A exposição prolongada a ruído também pode causar stress, ansiedade, insónia, hipertensão arterial e problemas cardíacos.
+
+### 8.6. Medidas de Proteção Auditiva
+
+Para proteger a audição, é fundamental adotar medidas preventivas, especialmente em ambientes ruidosos.
+
+*   **Utilizar proteção auricular:** Em ambientes de trabalho ruidosos ou em eventos musicais com volumes elevados, usar protetores auriculares (como tampões ou auriculares com cancelamento de ruído) é crucial para reduzir a exposição ao som.
+*   **Limitar o tempo de exposição:** Reduzir o tempo de permanência em ambientes ruidosos ajuda a minimizar os danos à audição.
+*   **Ajustar o volume:** Ao ouvir música com auscultadores ou em sistemas de som, manter o volume num nível seguro é essencial. A regra geral é que se deve conseguir ouvir uma conversa normal enquanto se ouve música.
+*   **Fazer exames auditivos regulares:** Consultar um otorrinolaringologista para exames auditivos periódicos ajuda a detetar precocemente problemas de audição e a tomar medidas preventivas.
+
+A consciencialização sobre os efeitos nocivos do ruído e a adoção de medidas de proteção auditiva são essenciais para preservar a audição e garantir uma melhor qualidade de vida.
